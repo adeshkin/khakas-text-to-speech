@@ -57,7 +57,7 @@ def main():
     model.to(device)
 
     denoise(model=model,
-            audio_path='./results/test_from_500.wav',
+            audio_path='./results/test_500.wav',
             save_path='./results/test_denoise.wav',
             device=device,
             sampling_rate=48000)

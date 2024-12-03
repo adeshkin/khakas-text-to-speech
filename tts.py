@@ -5,7 +5,9 @@ import torch
 
 def main():
     device = torch.device('cpu')
+
     torch.set_num_threads(4)
+    os.makedirs('./models', exist_ok=True)
     local_file = './models/v4_cyrillic.pt'
 
     if not os.path.isfile(local_file):

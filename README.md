@@ -19,12 +19,12 @@ python tts.py
 python denoise.py
 ```
 
-*Run flask app with tts model at localhost:13201:*
+Run flask app with tts model at *localhost:13201*
 ```commandline
 python app_tts.py
 ```
 
-*Run flask app with denoise model at localhost:13301*
+Run flask app with denoise model at *localhost:13301*
 ```commandline
 python app_denoise.py
 ```

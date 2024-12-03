@@ -1,5 +1,5 @@
-torch
-torchaudio
+torch==2.0.0
+torchaudio==2.0.1
 numpy==1.26.4
 pydub==0.25.1
 flask==3.0.3

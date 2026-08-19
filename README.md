@@ -1,3 +1,5 @@
+> ⚠️ **Notice:** This repository is deprecated. Please use the new version available at [adeshkin/khakas-tts](https://github.com/adeshkin/khakas-tts).
+
 ### Description
 #### Here you can find examples of the Flask application for speech synthesis in the [Khakas](https://en.wikipedia.org/wiki/Khakas_language) language. 
 #### [Silero-models](https://github.com/snakers4/silero-models) are used for speech synthesis and denoising.

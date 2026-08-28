@@ -1,4 +1,4 @@
-> ⚠️ **Notice:** This repository is deprecated. Please use the new version available at [adeshkin/khakas-tts](https://github.com/adeshkin/khakas-tts).
+> ⚠️ **Notice:** This repository is deprecated. Please use the new version available at [adeshkin/khakas-tts](https://github.com/adeshkin/khakas-dict).
 
 ### Description
 #### Here you can find examples of the Flask application for speech synthesis in the [Khakas](https://en.wikipedia.org/wiki/Khakas_language) language. 
